@@ -24,8 +24,8 @@ random.seed(42)
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-input_file = 'input/log_p_last10.csv'
-output_file = 'new_data/log_p_last10.csv'
+input_file = 'test.csv'
+output_file = 'new.csv'
 data_num=500
 type_num=200
 max_smi=100
